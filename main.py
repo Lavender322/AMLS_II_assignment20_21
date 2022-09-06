@@ -23,10 +23,10 @@ depth = 16
 scale = 2
 
 # Downgrade operator
-downgrade = 'bicubic'
+downgrade = 'unknown'
 
 # 
-model = 'edsr-wn'
+model = 'srgan'
 
 # Location of model weights (needed for demo)
 weights_dir = f'weights/{model}-{depth}-x{scale}-{downgrade}'
