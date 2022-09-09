@@ -10,6 +10,15 @@ A brief description of the organization of the project is presented below in a l
 1. Step 4 - **Evaluation on Test Set**: utils.py, model/shared.py
 1. Step 5 - **Project Execution**: main.py
 
+### Prerequisites
+
+In your Python 3.7 environment or machine, from the route directory of where you
+cloned this project, install the required packages by running 
+
+```python
+pip install -r requirements.txt:
+```
+
 ### Usage
 
 The role of each file in this project is illustrated as follows:
